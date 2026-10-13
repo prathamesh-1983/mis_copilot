@@ -1,0 +1,11 @@
+Date,OrderId,Product,Category,Region,Quantity,Sales,Profit
+2026-09-01,ORD-1001,Laptop Stand,Accessories,West,2,80,24
+2026-09-01,ORD-1002,Wireless Mouse,Accessories,North,3,75,30
+2026-09-02,ORD-1003,Mechanical Keyboard,Accessories,West,1,120,42
+2026-09-02,ORD-1004,Office Chair,Furniture,South,2,360,90
+2026-09-03,ORD-1005,USB-C Hub,Accessories,West,4,160,56
+2026-09-03,ORD-1006,Monitor 24 inch,Electronics,North,2,300,72
+2026-09-04,ORD-1007,Office Chair,Furniture,West,1,180,45
+2026-09-04,ORD-1008,Laptop Stand,Accessories,South,5,200,60
+2026-09-05,ORD-1009,Monitor 24 inch,Electronics,North,1,150,36
+2026-09-05,ORD-1010,Wireless Mouse,Accessories,West,6,150,60
