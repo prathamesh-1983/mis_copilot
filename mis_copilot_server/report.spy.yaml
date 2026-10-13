@@ -1,0 +1,13 @@
+class: Report
+table: reports
+
+fields:
+  fileName: String
+  rowCount: int
+  totalSales: double
+  totalProfit: double
+  averageOrderValue: double
+  topProduct: String
+  topRegion: String
+  createdAt: DateTime
+  aiInsight: String?
